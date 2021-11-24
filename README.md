@@ -33,7 +33,7 @@ Here is our current list:
 
 # Completed
 
-`✓` AutoOffhand feature for when you hold Right Click it puts a gap in ur offhand so you can eat and sword
-`✓` HoleFill
-`✓` Better Step
-`✓` Better ReverseStep
+* `✓` AutoOffhand feature for when you hold Right Click it puts a gap in ur offhand so you can eat and sword
+* `✓` HoleFill
+* `✓` Better Step
+* `✓` Better ReverseStep
