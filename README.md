@@ -15,7 +15,7 @@ Here is our current list:
 * `Strict HoleFill
 * `Quiver
 * `Double HoleESP
-* `BowBomb (Maybe)
+* ` BowBomb (Maybe)
 * `VisualRange Notifier
 * `AutoLog
 * `Strict Strafe
