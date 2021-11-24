@@ -6,3 +6,5 @@ What To Do: is make an Issue in the Issues tab of this repo, then set the tag to
 It could help us fix modules and add custom ones to help you or other people with new modules!
 
 # Any ideas are welcome!
+
+Here is our current list: ```text ```
