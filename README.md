@@ -7,4 +7,23 @@ It could help us fix modules and add custom ones to help you or other people wit
 
 # Any ideas are welcome!
 
-Here is our current list: ```text ```
+Here is our current list: 
+`PopChams (Maybe)
+ShulkerPreview
+PacketMine
+Totem Pop Counter
+Strict HoleFill
+Quiver
+Double HoleESP
+BowBomb (Maybe)
+VisualRange Notifier
+AutoLog
+Strict Strafe
+`
+
+# Completed
+
+✓ AutoOffhand feature for when you hold Right Click it puts a gap in ur offhand so you can eat and sword
+✓ HoleFill
+✓ Better Step
+✓ Better ReverseStep
