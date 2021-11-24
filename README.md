@@ -9,15 +9,17 @@ It could help us fix modules and add custom ones to help you or other people wit
 
 Here is our current list: 
 * `PopChams (Maybe)
-* `ShulkerPreview
-* `PacketMine
+* `Shulker Preview
+* `Packe tMine
 * `Totem Pop Counter
 * `Strict HoleFill
 * `Quiver
 * `Double HoleESP
-* ` BowBomb (Maybe)
+* `BowBomb (Maybe)
 * `VisualRange Notifier
+`
 * `AutoLog
+`
 * `Strict Strafe
 `
 
